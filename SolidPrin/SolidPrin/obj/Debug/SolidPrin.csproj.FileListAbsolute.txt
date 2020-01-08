@@ -1,0 +1,7 @@
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\bin\Debug\SolidPrin.exe.config
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\bin\Debug\SolidPrin.exe
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\bin\Debug\SolidPrin.pdb
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\obj\Debug\SolidPrin.csprojAssemblyReference.cache
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\obj\Debug\SolidPrin.csproj.CoreCompileInputs.cache
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\obj\Debug\SolidPrin.exe
+C:\Users\photoshop\source\repos\SolidPrin\SolidPrin\obj\Debug\SolidPrin.pdb
